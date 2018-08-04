@@ -79,10 +79,14 @@ header {
 input {
     font-size: 16px;
     color: #777;
+    border:  none;
+    width: 100%;
 }
 
 textarea {
     text-align: left;
+    border: none;
+    width: 100%;
 }
 
 .submit{
@@ -121,7 +125,7 @@ footer {
     text-align: center;
     background-color: #666;
     color: #fff;
-    padding: 30px 0px;
+    padding: 20px 0px;
     position: fixed;
     bottom: 0;
     left: 0;
